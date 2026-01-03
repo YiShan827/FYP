@@ -28,5 +28,7 @@ A microlearning music theory app built with Flutter, Spring Boot and MySQL.
 
 ### Frontend
 
+cd frontend
 flutter pub get
 flutter run
+
